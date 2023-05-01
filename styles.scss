@@ -29,6 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 2rem;
+
     &-title {
       color: hsl(218, 44%, 22%);
       font-family: "Outfit", sans-serif;
@@ -38,6 +39,7 @@ body {
       text-indent: 4px;
       width: 13rem;
     }
+
     &-phrase-scan,
     &-phrase-mentor {
       color: hsl(220, 15%, 55%);
